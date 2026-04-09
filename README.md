@@ -40,7 +40,7 @@ The dashboard includes:
 - Number of claims by status
 - Claim amount by age group
 
-![Insurance Dashboard](images/insurance-dashboard.png)
+![Insurance Dashboard](insurance-dashboard.png)
 
 ## Business Questions
 
